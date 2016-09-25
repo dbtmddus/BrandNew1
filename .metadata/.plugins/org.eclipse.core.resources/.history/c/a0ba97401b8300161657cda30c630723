@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<script type = "text/javascript">
+		var a = 10;
+		var b = 20;
+		
+		if (num>123){
+			document.write("a>b"+"<br />");	
+		}
+		else if (num==123){
+			document.write("a==b"+"<br />");	
+		}
+		else if (num<123){
+			document.write("a<b"+"<br />");	
+		}
+		
+		////////////////////////////////////////////////
+		a=a+10;
+		if (num>123){
+			document.write("a>b"+"<br />");	
+		}
+		else if (num==123){
+			document.write("a==b"+"<br />");	
+		}
+		else if (num<123){
+			document.write("a<b"+"<br />");	
+		}
+		//////////////////////////////////////////////////
+		a=a+10;
+		if (num>123){
+			document.write("a>b"+"<br />");	
+		}
+		else if (num==123){
+			document.write("a==b"+"<br />");	
+		}
+		else if (num<123){
+			document.write("a<b"+"<br />");	
+		}
+		
+		
+		
+		
+	</script>	
+</body>
+</html>

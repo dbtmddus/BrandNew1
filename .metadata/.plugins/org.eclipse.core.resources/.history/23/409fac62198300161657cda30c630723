@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<script type = "text/javascript">
+
+		var str = "abc";
+		var num = 123;
+		document.write("hello world!");
+		document.write(str+"<br />");
+		document.write(num+"<br />");
+		if (num>123){
+			
+		}
+	</script>	
+</body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<script type = "text/javascript">
+	function f1(){
+		document.write("f1");
+	}
+	
+	function f2(var f2_v){
+		
+	}
+	
+	</script>
+</body>
+</html>
