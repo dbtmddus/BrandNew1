@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;js_practice_1/WebContent/NewFile.html&apos; to &apos;hello_world.html&apos;" description="Rename resource &apos;NewFile.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/NewFile.html" name="hello_world.html" stamp="1474804888939" updateReferences="true"/>
+</session>
